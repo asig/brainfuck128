@@ -1,7 +1,7 @@
 .PHONY: clean
 
 
-all: brainfuck128.prg
+all: brainfuck128.prg bfc128.prg
 clean:
 	rm *.prg *.o
 
